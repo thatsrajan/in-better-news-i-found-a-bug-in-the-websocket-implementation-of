@@ -1,12 +1,12 @@
 Build Log: in-better-news-i-found-a-bug-in-the-websocket-implementation-of
-Started: 2026-05-01T15:02:20.193391+00:00
-Ended: 2026-05-01T15:02:21.224008+00:00
+Started: 2026-05-02T15:07:40.777031+00:00
+Ended: 2026-05-02T15:07:41.911033+00:00
 Builder mode: inline_fallback (GLM: stub_fallback)
 Implemented:
-- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260502T010216/projects/in-better-news-i-found-a-bug-in-the-websocket-implementation-of/README.md
-- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260502T010216/projects/in-better-news-i-found-a-bug-in-the-websocket-implementation-of/main.py
+- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260503T010729/projects/in-better-news-i-found-a-bug-in-the-websocket-implementation-of/README.md
+- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260503T010729/projects/in-better-news-i-found-a-bug-in-the-websocket-implementation-of/main.py
 How to run:
-- cd /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260502T010216/projects/in-better-news-i-found-a-bug-in-the-websocket-implementation-of
+- cd /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260503T010729/projects/in-better-news-i-found-a-bug-in-the-websocket-implementation-of
 - python3 main.py
 Checks:
 - GLM generation: stub_fallback | GLM call failed: rc=1, stderr=EMBEDDED FALLBACK: Gateway agent failed; running embedded agent: Error: Unknown agent id "main". Use "openclaw agents list" to see configured agents.
